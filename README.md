@@ -86,3 +86,5 @@ datasource to visualise metrics.
 ![Grafana Dashboard](grafana/dashboard.png)
 
 [1]: https://github.com/prometheus/client_python#custom-collectors
+
+// adding-git-secrets-check
